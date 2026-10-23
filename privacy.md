@@ -1,0 +1,1 @@
+Jarvis Privacy Policy. Jarvis is a personal assistant used only by its owner. It accesses the owner’s Google data solely to perform tasks the owner requests, such as backups to Drive, mail and calendar. No data is sold, shared with third parties, or used for advertising. Contact: <sammsimth@gmail.com>
